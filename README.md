@@ -1,1 +1,1 @@
-# MetaLamp's treining site: https://ericlamberg.github.io/MetaLamp-s-learning/
+# MetaLamp's treining site: https://ericlamberg.github.io
